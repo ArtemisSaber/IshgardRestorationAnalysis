@@ -1,0 +1,12 @@
+{
+  "name": "DataAnalysis",
+  "version": "1.0.0",
+  "description": "Analyse data for ishgard restoration",
+  "main": "index.js",
+  "author": "Howard",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2"
+  }
+}
